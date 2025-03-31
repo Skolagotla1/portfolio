@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sree Lakshmi Kolagotla | Cloud & DevOps Engineer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-50 font-sans">
+    <div class="max-w-4xl mx-auto p-8">
+
+        <!-- Header -->
+        <header class="text-center mb-8">
+            <h1 class="text-4xl font-bold text-gray-800">Sree Lakshmi Kolagotla</h1>
+            <p class="text-lg text-gray-600">Cloud | DevOps | Platform Engineer</p>
+        </header>
+
+        <!-- About -->
+        <section class="mb-8">
+            <h2 class="text-2xl font-semibold text-gray-700 mb-2">About Me</h2>
+            <p class="text-gray-600">Cloud Engineer with 4+ years of experience specializing in AWS, Infrastructure Automation, CI/CD, and Containerization. Skilled in delivering scalable, secure, and cost-optimized cloud solutions. Passionate about automating infrastructure, improving system reliability, and collaborating with cross-functional teams.</p>
+        </section>
+
+        <!-- Skills -->
+        <section class="mb-8">
+            <h2 class="text-2xl font-semibold text-gray-700 mb-2">Skills</h2>
+            <div class="flex flex-wrap gap-2">
+                <span class="bg-blue-100 text-blue-700 px-2 py-1 rounded">AWS</span>
+                <span class="bg-blue-100 text-blue-700 px-2 py-1 rounded">Terraform</span>
+                <span class="bg-blue-100 text-blue-700 px-2 py-1 rounded">Ansible</span>
+                <span class="bg-blue-100 text-blue-700 px-2 py-1 rounded">Docker</span>
+                <span class="bg-blue-100 text-blue-700 px-2 py-1 rounded">Kubernetes</span>
+                <span class="bg-blue-100 text-blue-700 px-2 py-1 rounded">Jenkins</span>
+                <span class="bg-blue-100 text-blue-700 px-2 py-1 rounded">Python</span>
+                <span class="bg-blue-100 text-blue-700 px-2 py-1 rounded">CloudWatch</span>
+                <span class="bg-blue-100 text-blue-700 px-2 py-1 rounded">GitHub Actions</span>
+            </div>
+        </section>
+
+        <!-- Projects -->
+        <section class="mb-8">
+            <h2 class="text-2xl font-semibold text-gray-700 mb-2">Projects</h2>
+            <ul class="list-disc pl-5 space-y-1 text-gray-600">
+                <li><strong>AWS Infrastructure Automation for Pharma</strong> - Automated scalable infrastructure using Terraform & Ansible.</li>
+                <li><strong>CI/CD Pipeline Modernization</strong> - Reduced deployment time by 30% using Jenkins, GitHub, and Ansible.</li>
+                <li><strong>Cloud Cost Optimization</strong> - Saved 25% on AWS costs via lifecycle policies & auto-scaling.</li>
+            </ul>
+        </section>
+
+        <!-- Certifications -->
+        <section class="mb-8">
+            <h2 class="text-2xl font-semibold text-gray-700 mb-2">Certifications</h2>
+            <ul class="list-disc pl-5 text-gray-600">
+                <li>AWS Solutions Architect – Associate</li>
+                <li>Certified Kubernetes Administrator (CKA)</li>
+                <li>Certified Kubernetes Developer (CKAD)</li>
+                <li>Azure Fundamentals</li>
+            </ul>
+        </section>
+
+        <!-- Contact -->
+        <section>
+            <h2 class="text-2xl font-semibold text-gray-700 mb-2">Contact</h2>
+            <p class="text-gray-600">Email: sreekolagotla@gmail.com</p>
+            <p class="text-gray-600">LinkedIn: <a href="https://www.linkedin.com/in/sreelakshmikolagotla/" class="text-blue-600">linkedin.com/in/sreelakshmikolagotla</a></p>
+            <p class="text-gray-600">GitHub: <a href="https://github.com/" class="text-blue-600">github.com/</a></p>
+        </section>
+
+    </div>
+</body>
+
+</html>
